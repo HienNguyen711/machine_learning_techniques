@@ -3,7 +3,7 @@
 
 + Spark ML based classifier - MLP implementation 
 + Train MLP classifier 
-
++ Improve predictive accuracy by the cross validation and grid search techniques 
 
 
 
