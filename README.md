@@ -1,5 +1,5 @@
-# machine_learning_techniques
-(Back to projects)
+# machine_learning_project
+
 #### Algorithms
 + Deep learning
 + Ensemble
