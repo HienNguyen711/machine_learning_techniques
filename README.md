@@ -1,5 +1,5 @@
 # machine_learning_techniques
-
+(Back to projects)
 #### Algorithms
 + Deep learning
 + Ensemble
@@ -12,3 +12,5 @@
 + Dimension Reduction 
 + Instanced based
 + Clustering
+
+
