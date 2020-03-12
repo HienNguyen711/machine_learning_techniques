@@ -51,7 +51,7 @@ public class DatasetInitiate {
         SparkSession spark = SparkSession
                 .builder()
                 .master("local[*]")
-                .config("spark.sql.warehouse.dir", "C:/Exp/")
+                .config("spark.sql.warehouse.dir", "/Users/la-hien.nguyen/Desktop/github/machine_learning_techniques/deeplearning")
                 .appName("OneVsRestExample")
                 .getOrCreate();
 

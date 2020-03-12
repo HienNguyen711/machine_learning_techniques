@@ -1,11 +1,10 @@
 # Titanic survival prediction
-
-
+#### Description  
 + Spark ML based classifier - MLP implementation 
 + Train MLP classifier 
-+ Improve predictive accuracy by the cross validation and grid search techniques 
-
-
++ Improve predictive accuracy by the cross validation and grid search techniques
+#### How to run  
+https://stackoverflow.com/questions/22298192/how-to-run-a-spark-java-program
 
 # Cancer type prediction using Recurrent Type Networks 
 
