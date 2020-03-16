@@ -22,6 +22,11 @@
 + EA
 
 
+
+#### AI 
++ AI search algorithms : Dijktra search, A* search
++ AI game and Rule-based system 
+
 ##### Frameworks 
 + Tensorflow 
 + Keras 
