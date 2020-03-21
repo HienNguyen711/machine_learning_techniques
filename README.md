@@ -111,7 +111,9 @@ Data transformation: Many analytical algorithms need features that are aggregate
 #### Big data ML platform 
 + H2O ARCHITECTURE
     + fork-join 
-    + MapReduce 
+    + MapReduce  
++ https://medium.com/@jamal.robinson/introduction-to-h2o-ai-1ba51a884f02
+<a href="https://imgur.com/mgLitk5"><img src="https://i.imgur.com/mgLitk5.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/YHPhPbr"><img src="https://i.imgur.com/YHPhPbr.png" title="source: imgur.com" /></a>
 
 
