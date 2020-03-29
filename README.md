@@ -154,3 +154,14 @@ Data transformation: Many analytical algorithms need features that are aggregate
 + SparkML Lib : fast and engine for large scale distributed data processing 
 + Apache MXNet : state of the art model  CNN and LSTM - Scalable 
 + keras : 
+
+
+
+#### Public datasets
++ Image : Open Images V4 Google, Microsoft , UC Berkeley
++ Video : Youtube
++ Text : Squad, Yelp
++ Satellite data : Landsat data 
++ Audio : Google Audio Set, Librispeech 
+
+
