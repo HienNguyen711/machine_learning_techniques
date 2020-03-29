@@ -5,7 +5,7 @@ tags: []
 ---
 
 # Image classification with Keras
-https://raw.githubusercontent.com/PracticalDL/Practical-Deep-Learning-Book/master/sample-images/dog.jpg
+
 
 
 # Image classification wiht Keras
