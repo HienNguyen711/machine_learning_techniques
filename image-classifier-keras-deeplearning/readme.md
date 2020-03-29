@@ -1,20 +1,10 @@
----
-noteId: "0269b4d071b611ea9dd9a3a496b830a8"
-tags: []
-
----
-
-# Image classification with Keras
-
-
-
 # Image classification wiht Keras
 + Neural network 
 - Load image
 - 224x224 pixel
 - range [0,1] or [–1,1]
 - Pretrained model 
-
+<a href="https://imgur.com/nPbdXhr"><img src="https://i.imgur.com/nPbdXhr.jpg" title="source: imgur.com" /></a>
 
 # how to run
 + Install :  
